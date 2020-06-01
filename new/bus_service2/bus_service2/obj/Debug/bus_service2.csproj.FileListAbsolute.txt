@@ -1,0 +1,11 @@
+c:\users\jj\documents\visual studio 2017\Projects\bus_service2\bus_service2\bin\Debug\bus_service2.exe.config
+c:\users\jj\documents\visual studio 2017\Projects\bus_service2\bus_service2\bin\Debug\bus_service2.exe
+c:\users\jj\documents\visual studio 2017\Projects\bus_service2\bus_service2\bin\Debug\bus_service2.pdb
+c:\users\jj\documents\visual studio 2017\Projects\bus_service2\bus_service2\obj\Debug\bus_service2.csprojResolveAssemblyReference.cache
+c:\users\jj\documents\visual studio 2017\Projects\bus_service2\bus_service2\obj\Debug\bus_service2.Form1.resources
+c:\users\jj\documents\visual studio 2017\Projects\bus_service2\bus_service2\obj\Debug\bus_service2.Properties.Resources.resources
+c:\users\jj\documents\visual studio 2017\Projects\bus_service2\bus_service2\obj\Debug\bus_service2.csproj.GenerateResource.Cache
+c:\users\jj\documents\visual studio 2017\Projects\bus_service2\bus_service2\obj\Debug\bus_service2.exe
+c:\users\jj\documents\visual studio 2017\Projects\bus_service2\bus_service2\obj\Debug\bus_service2.pdb
+C:\Users\jj\documents\visual studio 2017\Projects\bus_service2\bus_service2\bin\Debug\System.Data.SQLite.dll
+C:\Users\jj\documents\visual studio 2017\Projects\bus_service2\bus_service2\bin\Debug\System.Data.SQLite.pdb
